@@ -84,6 +84,6 @@ Moving beyond EDA, I plan to:
 
 ## 📬 Contact
 
-For questions or collaboration, feel free to connect with me on [LinkedIn](#https://www.linkedin.com/in/ahmedmnaouer/) or email me at ahmedmnaouer101@gmail.com.
+For questions or collaboration, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ahmedmnaouer/) or email me at ahmedmnaouer101@gmail.com.
 
 ---
