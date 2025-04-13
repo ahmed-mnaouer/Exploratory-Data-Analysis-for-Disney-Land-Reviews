@@ -76,7 +76,8 @@ Moving beyond EDA, I plan to:
 
 ## 📎 Files
 
-- `Disneyland_Reviews_EDA.ipynb` – Main notebook with code and visuals  
+- `Disneyland_Reviews_EDA.ipynb` – Main notebook with code and visuals
+- `DisneyLandReviews.xlsx` - Dataset used (extracted from the website Kaggle)
 - `README.md` – Project documentation
 - In addition to the files in the repository, you can find the presentation in PDF format via this link : https://www.linkedin.com/feed/update/urn:li:activity:7310963882242547712/
 
